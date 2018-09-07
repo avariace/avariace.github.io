@@ -3,6 +3,7 @@ title: "Semi-supervised Deep Generative Models with Manifold Regularization"
 collection: publications
 permalink: /publication/2019-Semi-supervised-Deep_-Generative-Models-with-Manifold-Regularization
 date: 2019-09-04
+authors = Xie Q, Peng M, Huang J
 
 citation: 'Xie Q, Peng M, Huang J, et al. Semi-supervised Deep generative models with Manifold Regularization[C]//AAAI. 2019, under review.'
 ---
