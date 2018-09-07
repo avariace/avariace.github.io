@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Qianqian Xie"
   avatar           : "profile.png"
-  bio              : "Qianqian Xie is a Ph.D candidate in School of Computer Science at Wuhan University, Wuhan, China. She received her bachelors degrees from Jiangxi Normal University. Her current research focus areas include natural language processing, machine learning and deep learning."
-  location         : "Computer School, Wuhan University, Wuhan, Hubei, China"
+  bio              : "She is a Ph.D candidate in School of Computer Science at Wuhan University, Wuhan, China. She received her bachelors degrees from Jiangxi Normal University. Her current research focus areas include natural language processing, machine learning and deep learning."
+  location         : "Computer School, Wuhan University, \n Wuhan, Hubei, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=UYW7X_0AAAAJ&hl=en"
   email            : "xieq@whu.edu.cn"
