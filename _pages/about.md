@@ -15,6 +15,8 @@ Education
 * Ph.D. in Computer Software and Theory, Wuhan University, 2019 (expected)
 * B.S. in Computer Science and Technology, Jiangxi Normal University, 2014
 
+Publications
+======
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
