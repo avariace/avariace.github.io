@@ -35,9 +35,7 @@
     </h3>
     
 
-    <p>
-        {{ post.authors | replace_first: "Xie Q", "<b>Xie Q</b>" }}
-    </p>
+    <p>{{ post.authors }}</p>
 
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
