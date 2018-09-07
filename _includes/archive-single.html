@@ -36,12 +36,7 @@
     
 
     <p>
-        {% for at in post.authors | split: ", " %}
-          {% if at == "Xie Q" %}
-            at = "<b>Xie Q</b>"
-          {% endif %}
-        {% endfor %}
-        {{ post.authors | join: ", "}}
+        {{ post.authors | replace_first: "Xie Q", "<b>Xie Q</b>" }}
     </p>
 
     {% if post.citation and post.paperurl %}
