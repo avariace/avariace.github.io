@@ -82,8 +82,9 @@ author:
   name             : "Qianqian Xie"
   avatar           : "profile.png"
   bio              : "She is a Ph.D candidate in School of Computer Science at Wuhan University, Wuhan, China. She received her bachelors degrees from Jiangxi Normal University. Her current research focus areas include natural language processing, machine learning and deep learning."
-  location         : "Computer School, Wuhan University, \n Wuhan, Hubei, China"
+  location         : "Wuhan, Hubei, China"
   employer         :
+  twitter          : "qianqian_xie"
   googlescholar    : "https://scholar.google.com/citations?user=UYW7X_0AAAAJ&hl=en"
   email            : "xieq@whu.edu.cn"
   uri              :
@@ -99,7 +100,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-9588-7454"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
