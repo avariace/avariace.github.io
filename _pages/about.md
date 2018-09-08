@@ -10,6 +10,8 @@ redirect_from:
 
 Qianqian Xie is a Ph.D candidate in School of Computer Science at Wuhan University, Wuhan, China. She received her bachelors degrees from Jiangxi Normal University. Her current research focus areas include natural language processing, machine learning and deep learning.
 
+[Curriculum Vitae](https://xashely.github.io/files/cv.pdf)
+
 Education
 ======
 * Ph.D. in Computer Software and Theory, Wuhan University, 2014 - 2019 (expected)
