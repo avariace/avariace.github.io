@@ -12,8 +12,8 @@ Qianqian Xie is a Ph.D candidate in School of Computer Science at Wuhan Universi
 
 Education
 ======
-* Ph.D. in Computer Software and Theory, Wuhan University, 2019 (expected)
-* B.S. in Computer Science and Technology, Jiangxi Normal University, 2014
+* Ph.D. in Computer Software and Theory, Wuhan University, 2014 - 2019 (expected)
+* B.S. in Computer Science and Technology, Jiangxi Normal University, 2010 - 2014
 
 Publications
 ======
