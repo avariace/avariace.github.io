@@ -4,5 +4,5 @@ collection: publications
 date: 2019-09-04
 venue: 'Xie Q, Peng M, Huang J, et al.'
 
-citation: 'AAAI. 2019, under review.'
+citation: 'The Thirty-Third AAAI Conference on Artificial Intelligence(AAAI), 2019, under review.'
 ---
