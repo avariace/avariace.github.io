@@ -34,7 +34,7 @@
       {% endif %}
     </h3>
 
-    <p>{{ post.venue }}</p>
+    <p>{{ post.venue | replace: "Xie Q", "<b>Xie Q</b>" }}</p>
     
 
     {% if post.citation and post.paperurl %}
