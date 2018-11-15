@@ -31,10 +31,10 @@
     </h3>
       {% if post.link %}
         <a href="{{ post.link }}">[paper]</a> 
-        {% if post.slide %}
-        <a href="{{ post.slide }}">[slide]</a> 
-        {% endif %}
       {% endif %}
+        {% if post.slide %}
+        <a href="{{ post.slide }}"><i>[slide]</i></a> 
+        {% endif %}
 
     {% for abc in post.abstract %}
     <p>{{ abc }} </p>
