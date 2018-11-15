@@ -14,7 +14,7 @@ I am on the job market and will be available for interviews at the 2019 ASSA Ann
 
 My current research interests include industrial organization, economics of technological change, innovation and entrepreneurship. My primary research focus is on university technology transfer, academic entrepreneurship, entrepreneurial and innovation ecosystem, with secondary interests in innovations in the financial sector (Fintech).
 
-[Curriculum Vitae](https://avariace.github.io/files/cv.pdf)
+[Curriculum Vitae](https://laiyz.github.io/files/cv.pdf)
 
 Education
 ======
