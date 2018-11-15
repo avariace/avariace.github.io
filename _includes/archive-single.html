@@ -27,7 +27,7 @@
     {% endif %}
 
     <h3 class="archive__item-title" itemprop="headline">
-        {{ title }}
+        {{ title }} <span>{{ post.venue  }}</span><span>{{ post.citation }}</span>
     </h3>
       {% if post.link %}
         <a href="{{ post.link }}">[paper]</a> 
@@ -36,8 +36,6 @@
         {% endif %}
       {% endif %}
 
-    <p>{{ post.venue | replace: "Xie Q", "<b>Xie Q</b>" | replace: "Peng M", "Peng M<sup>*</sup>" }}</p>
-    <p>{{ post.citation }} </p>
     <p>{{ post.abstract }} </p>
     
   </article>
