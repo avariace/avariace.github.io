@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qianqian Xie"
+title                    : "Yanzhao Lai"
 title_separator          : "-"
-name                     : &name "Qianqian Xie"
+name                     : &name "Yanzhao Lai"
 description              : &description "personal description"
-url                      : https://xashely.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://avariace.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xashely/xashely.github.io"
+repository               : "avariace/avariace.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -79,14 +79,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qianqian Xie"
+  name             : "Yanzhao Lai"
   avatar           : "profile.png"
-  bio              : "Ph.D. students, Computer School, Wuhan University"
-  location         : "Wuhan, Hubei, China"
+  bio              : "Ph.D. students, Economics, The George Washington University"
+  location         : "Washington, DC, the United States"
   employer         :
-  twitter          : "qianqian_xie"
-  googlescholar    : "https://scholar.google.com/citations?user=UYW7X_0AAAAJ&hl=en"
-  email            : "xieq@whu.edu.cn"
+  twitter          :
+  googlescholar    :
+  email            : "yzlai@gwmail.gwu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,13 +94,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xashely"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-9588-7454"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

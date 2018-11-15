@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qianqian's Homepage"
+title: "Yanzhao's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Qianqian Xie is a Ph.D candidate in School of Computer Science at Wuhan University, Wuhan, China. She received her bachelors degrees from Jiangxi Normal University. Her current research focus areas include natural language processing, machine learning and deep learning.
+I am Yanzhao Lai, a PhD Candidate in Economics at The George Washington University.
 
-[Curriculum Vitae](https://xashely.github.io/files/cv.pdf)
+I am on the job market and will be available for interviews at the 2019 ASSA Annual Meeting in Atlanta.
+
+My current research interests include industrial organization, economics of technological change, innovation and entrepreneurship. My primary research focus is on university technology transfer, academic entrepreneurship, entrepreneurial and innovation ecosystem, with secondary interests in innovations in the financial sector (Fintech).
+
+[Curriculum Vitae](https://avariace.github.io/files/cv.pdf)
 
 Education
 ======
-* Ph.D. in Computer Software and Theory, Wuhan University, 2014 - 2019 (expected)
-* B.S. in Computer Science and Technology, Jiangxi Normal University, 2010 - 2014
+* Ph.D., Economics, The George Washington University, Washington, DC, 2019 (expected)
+  Dissertation: Essays on Innovation and Entrepreneurship,
+  Committee: Professor Nicholas Vonortas (Chair), Professor Anupama Phene, Professor Roberto Samaniego
+* M.A., Economics, Boston University, Boston, MA, 2011
+* M.S., Mathematics, University of North Carolina, Wilmington, NC, 2009
+* B.A., Information and Computing Science, Huazhong University of Science and Technology, Wuhan, China, 2007
 
 Publications
 ======
@@ -28,5 +36,3 @@ Publications
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-\* Min Peng is my supervisor
