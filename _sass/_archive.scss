@@ -24,6 +24,7 @@
   p {
     text-align: justify;
     text-indent: 1cm;
+    margin-bottom: 0;
   }
 }
 
@@ -44,7 +45,7 @@
   font-family: $sans-serif-narrow;
 
   span {
-    font-weight: normal;
+    font-weight: normal !important;
   }
 
   a + a {
