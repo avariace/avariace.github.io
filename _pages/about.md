@@ -36,10 +36,14 @@ Publications
 
 ## Working Papers
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if not post.slide %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 ## Working in Progress
 {% for post in site.posts reversed %}
-  {% include archive-single.html %}
+  {% if post.slide %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
