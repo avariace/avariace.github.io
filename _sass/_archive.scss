@@ -23,6 +23,7 @@
 .archive__item {
   p {
     text-align: justify;
+    text-indent: 1cm;
   }
 }
 
@@ -41,6 +42,10 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+
+  span {
+    font-weight: normal;
+  }
 
   a + a {
     opacity: 0.5;

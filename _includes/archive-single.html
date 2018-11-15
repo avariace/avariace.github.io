@@ -36,7 +36,9 @@
         {% endif %}
       {% endif %}
 
-    <p>{{ post.abstract }} </p>
+    {% for abc in post.abstract %}
+    <p>{{ abc }} </p>
+    {% endfor %}
     
   </article>
 </div>

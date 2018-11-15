@@ -19,15 +19,12 @@ My current research interests include industrial organization, economics of tech
 Education
 ======
 * Ph.D., Economics, The George Washington University, Washington, DC, 2019 (expected)
-  Dissertation: Essays on Innovation and Entrepreneurship
-  
+  Dissertation: Essays on Innovation and Entrepreneurship<br/>
   Committee: Professor Nicholas Vonortas (Chair), Professor Anupama Phene, Professor Roberto Samaniego
 * M.A., Economics, Boston University, Boston, MA, 2011
 * M.S., Mathematics, University of North Carolina, Wilmington, NC, 2009
 * B.A., Information and Computing Science, Huazhong University of Science and Technology, Wuhan, China, 2007
 
-Publications
-======
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
