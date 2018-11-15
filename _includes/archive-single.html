@@ -27,15 +27,14 @@
     {% endif %}
 
     <h3 class="archive__item-title" itemprop="headline">
+        {{ title }}
+    </h3>
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> 
+        <a href="{{ post.link }}">[paper]</a> 
         {% if post.slide %}
         <a href="{{ post.slide }}">[slide]</a> 
         {% endif %}
-      {% else %}
-        <a href="#" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h3>
 
     <p>{{ post.venue | replace: "Xie Q", "<b>Xie Q</b>" | replace: "Peng M", "Peng M<sup>*</sup>" }}</p>
     <p>{{ post.citation }} </p>
