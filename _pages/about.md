@@ -43,7 +43,7 @@ Publications
 
 ## Working in Progress
 {% for post in site.publications reversed %}
-  {% if post.post %}
+  {% if post.posts %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
